@@ -54,6 +54,7 @@ combos {
         };
 
         combo_mo3_1 {
+            timeout-ms = <75>;
             bindings = <&mo 3>;
             key-positions = <38 39>;
         };
